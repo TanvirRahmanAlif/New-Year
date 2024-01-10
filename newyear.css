@@ -240,3 +240,49 @@ a {
     font-weight: 400;
     margin-top: 0px;
 }
+
+/* Footer Section */
+
+footer {
+    background: #070211;
+    width: 1400px;
+    height: 610px;
+    flex-shrink: 0;
+    margin-top: 120px;
+}
+
+.f1 {
+    display: flex;
+    gap: 730px;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+    padding: 50px 0px 0px 50px;
+}
+
+.f2 {
+    margin-left: 550px;
+    padding: 50px 0px 50px 0px;
+}
+.f2 a{
+    margin-right: 25px;
+}
+
+.f3 {
+    display: flex;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    gap: 900px;
+    padding: 50px 10px 0px 50px;
+}
+hr{
+    margin-left: 50px;
+    margin-right: 50px;
+}
